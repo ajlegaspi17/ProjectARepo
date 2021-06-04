@@ -1,1 +1,4 @@
 This is the second file created by Dev 1
+modified in cdt branch
+
+text added to test merge from github
